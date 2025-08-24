@@ -1,0 +1,7 @@
+Openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+ -e .   # it check the package  and go through all package
