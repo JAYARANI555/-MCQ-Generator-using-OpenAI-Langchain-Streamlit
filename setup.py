@@ -11,6 +11,7 @@ setup(
         "openai",
         "langchain",
         "streamlit",
-        "python-dotenv"
+        "python-dotenv",
+        "PyPDF2"
     ]
 )

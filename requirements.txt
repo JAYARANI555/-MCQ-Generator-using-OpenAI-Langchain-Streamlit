@@ -1,7 +1,10 @@
-Openai
 langchain
+openai
 streamlit
 python-dotenv
+langchain-openai
+langchain-core
 PyPDF2
 
- -e .   # it check the package  and go through all package
+
+-e .
